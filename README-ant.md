@@ -22,5 +22,10 @@ instead put the whole lib bin to /usr/local/lib /usr/local/bin
 
 or just export PATH=$PATH:YOUR_ANT_PATH
 
+also this [command][2] will help:
 
-[1]http://stackoverflow.com/questions/2336299/what-is-wrong-with-my-ant-configuration
+    $ant -diagnostics
+
+
+  [1]: http://stackoverflow.com/questions/2336299/what-is-wrong-with-my-ant-configuration
+  [2]: http://ant.apache.org/problems.html
